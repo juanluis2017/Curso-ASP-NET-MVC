@@ -2,7 +2,7 @@
 Curso basico de ASP NET MVC 
 
 
-MVC OverView  explicación general del patrón MVC y su uso en proyecto ASP  NET.
+.MVC OverView  explicación general del patrón MVC y su uso en proyecto ASP  NET.
 Creación de un proyecto MVC en Visual Studio.
 Ciclo de vida ASP NET MVC
 Definición y explicación de los compontes base en un proyecto ASP NET MVC.
