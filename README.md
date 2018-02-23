@@ -13,7 +13,6 @@
 * Retornar una lista hacia la vista.
 * Redirect ,RedirectToAction ,redirectoToRoute.
 * HttpStatusCode y HttpStatusCodeResult.
-----------------------------------------------------------------------------------------------------------------------------
 
 ## Curso basico de ASP NET MVC Modulo 02
 
