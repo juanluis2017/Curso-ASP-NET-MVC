@@ -1,6 +1,6 @@
-## Curso-ASP-NET-MVC
+# Curso-ASP-NET-MVC
 
-# Curso basico de ASP NET MVC Modulo 01
+## Curso basico de ASP NET MVC Modulo 01
 
 * MVC OverView  explicación general del patrón MVC y su uso en proyecto ASP  NET.
 * Creación de un proyecto MVC en Visual Studio.
@@ -15,7 +15,7 @@
 * HttpStatusCode y HttpStatusCodeResult.
 ----------------------------------------------------------------------------------------------------------------------------
 
-# Curso basico de ASP NET MVC Modulo 02
+## Curso basico de ASP NET MVC Modulo 02
 
 *	Parámetros de un action y Query String.
 * HttpGet y HttpPost.
