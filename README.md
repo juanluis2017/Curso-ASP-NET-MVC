@@ -1,6 +1,6 @@
 ## Curso-ASP-NET-MVC
-Curso basico de ASP NET MVC Modulo 01
 
+# Curso basico de ASP NET MVC Modulo 01
 
 * MVC OverView  explicación general del patrón MVC y su uso en proyecto ASP  NET.
 * Creación de un proyecto MVC en Visual Studio.
@@ -13,16 +13,12 @@ Curso basico de ASP NET MVC Modulo 01
 * Retornar una lista hacia la vista.
 * Redirect ,RedirectToAction ,redirectoToRoute.
 * HttpStatusCode y HttpStatusCodeResult.
+----------------------------------------------------------------------------------------------------------------------------
 
-Curso basico de ASP NET MVC Modulo 02
-
-Controladores
+# Curso basico de ASP NET MVC Modulo 02
 
 *	Parámetros de un action y Query String.
 * HttpGet y HttpPost.
-
-Vista
-
 *	Viewbag y viewdata.
 *	Introducción a las Vistas en ASP.NET MVC.
 *	Layout y Shared folder | Vistas.
