@@ -22,3 +22,15 @@
 *	Introducción a las Vistas en ASP.NET MVC.
 *	Layout y Shared folder | Vistas.
 *	Escribiendo código en una vista razor.
+
+
+
+## Curso basico de ASP NET MVC Modulo 02
+
+
+* Método Raw.
+* ActionLink.
+* RenderAction y Action.
+* Uso de dropdownlist desde modelo.
+* DropDownList desde un enum sin modelo.
+
